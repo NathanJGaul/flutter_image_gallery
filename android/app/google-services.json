@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809499546602",
+    "project_id": "ai-art-exhibition",
+    "storage_bucket": "ai-art-exhibition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809499546602:android:816a16052a5e2ba5a95893",
+        "android_client_info": {
+          "package_name": "com.example.ai_background"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809499546602-pfar16496tc9jgu75t4vf8d8mivvoids.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOWhNtLtr7uVcySxqIDZyvnmJiMOl27mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809499546602-pfar16496tc9jgu75t4vf8d8mivvoids.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
